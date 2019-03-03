@@ -1,0 +1,11 @@
+# FMOD
+Assets/FMODStudioCache.asset
+Assets/StreamingAssets/*.bank
+fmod.log
+fmod_editor.log
+
+# FMOD studio (In folder FMOD)
+/FMOD_Sense/**.user
+/FMOD_Sense/**.unsaved
+/FMOD_Sense/**.cache
+/FMOD_Sense/**.restore
